@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
-## 😊 About me:
+## 🙂 About me:
 
 - ### 🎓 My name is <span style="color: green;">**Muhammad Aamir**</span> and I am a **Data Science student and Machine Learning Enthusiast**
 
