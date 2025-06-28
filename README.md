@@ -8,7 +8,7 @@
 
 ## 😊 About me:
 
-- ### 🎓 My name is Muhammad Aamir and I am a **Data Science student and Machine Learning Enthusiast**
+- ### 🎓 My name is <span style="color: green;">**Muhammad Aamir**</span> and I am a **Data Science student and Machine Learning Enthusiast**
 
 - ### 💻 I am passionate about **Machine Learning** and the different fields it can be applied to
 
