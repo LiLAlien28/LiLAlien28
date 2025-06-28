@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira+Code&center=true&width=600&height=60&duration=3000&pause=1000&size=26">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=28&center=true&vCenter=true&width=800&height=60&lines=Hi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast;Building+Projects+with+Passion" />
+
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
 
 ## 🙂 About me:
 
