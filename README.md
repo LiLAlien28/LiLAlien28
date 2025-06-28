@@ -1,24 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&size=24">
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
-
-
 ## 😊 About me:
 
-- 🎓 My name is Muhammad Aamir and I am a **Data Science student and Machine Learning Enthusiast**
+- ### 🎓 My name is Muhammad Aamir and I am a **Data Science student and Machine Learning Enthusiast**
 
-- 💻 I am passionate about **Machine Learning** and the different fields it can be applied to
+- ### 💻 I am passionate about **Machine Learning** and the different fields it can be applied to
 
-- 🔍 I enjoy exploring real-world applications of data science and building projects that solve meaningful problems
+- ### 🔍 I enjoy exploring real-world applications of data science and building projects that solve meaningful problems
 
-- 📈 Currently working on expanding my knowledge in deep learning and statistical modeling
+- ### 📈 Currently working on expanding my knowledge in deep learning and statistical modeling
 
-Feel free to explore my repositories to see what I've been working on!
+### Feel free to explore my repositories to see what I've been working on!
 
 ## 🛠️ Some Languages & Tools I have worked with:
 
@@ -27,7 +25,6 @@ Feel free to explore my repositories to see what I've been working on!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 ## 📫 How to reach me:
 
