@@ -1,11 +1,11 @@
 <div align="center">
-  
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=F7931E&size=28&center=true&vCenter=true&width=800&height=60&lines=👋+Hello+and+Welcome+to+My+GitHub!;📊+Data+Science+Student;🤖+Machine+Learning+Explorer;💡+Always+Learning+and+Building" />
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
 </p>
 
 
