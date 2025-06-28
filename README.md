@@ -5,10 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450" />
 </p>
-
-
 ## 🙂 About me:
 
 - ### 🎓 My name is <span style="color: green;">**Muhammad Aamir**</span> and I am a **Data Science student and Machine Learning Enthusiast**
