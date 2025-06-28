@@ -1,12 +1,13 @@
 <div align="center">
-
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=F7931E&size=28&center=true&vCenter=true&width=800&height=60&lines=👋+Hello+and+Welcome+to+My+GitHub!;📊+Data+Science+Student;🤖+Machine+Learning+Explorer;💡+Always+Learning+and+Building" />
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
 ## 🙂 About me:
 
 - ### 🎓 My name is <span style="color: green;">**Muhammad Aamir**</span> and I am a **Data Science student and Machine Learning Enthusiast**
