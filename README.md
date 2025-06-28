@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=HHi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&size=24">
 </div>
 
 <div align="center">
