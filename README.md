@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=HHi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone+and+welcome+to+my+GitHub!;Data+Science+Student;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=600&height=60&duration=4000&pause=1000&size=24">
 </div>
 
 <div align="center">
@@ -24,6 +24,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 How to reach me:
 
