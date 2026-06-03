@@ -8,7 +8,7 @@
 
 ## 😊 About Me
 
-- 🎓 **Data Science student** at UST Bannu (CGPA: 3.75/4.00) | Dean's List: Fall 2024, Spring 2025
+- 🎓 **Data Science student** at UST Bannu (CGPA: 3.76/4.00) | Dean's List: Fall 2024, Spring 2025
 - 🤖 **Machine Learning Engineer** with experience in production-grade deep learning systems
 - ☁️ **Microsoft Certified:** Azure AI Fundamentals (AI-900)
 - 🏫 **Stanford Code in Place Section Leader** – taught Python to 15+ international learners
